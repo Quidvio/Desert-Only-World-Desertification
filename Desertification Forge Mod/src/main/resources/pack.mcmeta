@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Desert Only Worldgen for Deserts and Dunes",
+    "pack_format": 15,
+    "supported_formats": [
+      15,
+      26
+    ]
+  }
+}
